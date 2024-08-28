@@ -12,7 +12,9 @@ export default function Home() {
             <TextInput
                 style={styles.input}
                 placeholder="Nome do participante"
-                placeholderTextColor='#6B6B6B' />
+                placeholderTextColor='#6B6B6B'
+            // keyboardType="" 
+            />
         </View>
     )
 }
